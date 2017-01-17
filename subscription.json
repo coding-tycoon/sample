@@ -3,7 +3,7 @@
 	"subscriptionName": "UCMDB Offering1 (1.0.0)",
 	"startDate": "2017-01-30T06:48:02.000Z",
 	"subscriptionDescription": "This is a description",
-	"lifecyceStages":{
+	"lifecycleStages":{
 		"DEVELOPMENT": {
 			"field_bce557cf53554931a53b59320e6747cf": true,
 			"field_db177f8b87184f648854ac911d120e0a": "10.3.3.3",
