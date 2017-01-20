@@ -1,6 +1,6 @@
 {
 	"categoryName": "ACCESSORY",
-	"subscriptionName": "NodeJS POC Offering (1.0.0)",
+	"subscriptionName": "NodeJS Offering (1.0.0)",
 	"startDate": "2017-01-19T15:19:34.000Z",
 	"subscriptionDescription": "Sample offering to deploy NodeJS Application",
 	"lifecycleStages":{
