@@ -1,0 +1,783 @@
+{
+  "members" : [ {
+    "name" : "NodeJs",
+    "id" : "8a828bfb59ac99a10159c990b672215d",
+    "properties" : [ {
+      "name" : "Application Password",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application Port",
+      "type" : {
+        "key" : "NUMBER",
+        "name" : "Integer",
+        "description" : "Integer",
+        "icon" : null
+      },
+      "value" : [ "0" ]
+    }, {
+      "name" : "Application Product Vendor",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application Product Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application Protocol",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application Product Type",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application IP Address",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "10.2.11.41" ]
+    }, {
+      "name" : "Application User name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "CI Instance ID",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application Product Version",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    } ]
+  }, {
+    "name" : "MongoDB",
+    "id" : "8a828bfb59ac99a10159c990b66f2144",
+    "properties" : [ {
+      "name" : "Application IP Address",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "10.2.11.41" ]
+    }, {
+      "name" : "Database Connect String",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application Password",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application Protocol",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application Product Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+     },
+      "value" : [ ]
+    }, {
+      "name" : "Application Product Type",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "CI Instance ID",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application User name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application Port",
+      "type" : {
+        "key" : "NUMBER",
+        "name" : "Integer",
+        "description" : "Integer",
+        "icon" : null
+      },
+      "value" : [ "0" ]
+    }, {
+      "name" : "Application Product Version",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Application Product Vendor",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    } ]
+  }, {
+    "name" : "vCenter Compute Advanced With Public Actions 16.12",
+    "id" : "8a828bfb59ac99a10159c990d4752206",
+    "properties" : [ {
+      "name" : "Remote Console Port",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "5904" ]
+    }, {
+      "name" : "ResourceLocation",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "8a828bfb598428bc015986f4404c4c63" ]
+    }, {
+      "name" : "Datacenter Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "CLOUD" ]
+    }, {
+      "name" : "Ip Address",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "10.2.11.41" ]
+    }, {
+      "name" : "VM ResourcePool",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "HostSystem",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "ErrorMessage",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Provider ID",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "8a828bfb598428bc015986f4404c4c63" ]
+    }, {
+      "name" : "VM Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Snapshots",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "VM UUID",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "42369784-b3d0-f667-f7a2-32893bbb9a6d" ]
+    }, {
+      "name" : "VMId",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "vm-13238" ]
+    }, {
+      "name" : "PowerState",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "running" ]
+    }, {
+      "name" : "VM Name Prefix",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "VMbe2df0" ]
+    }, {
+      "name" : "Host Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "VMbe2df0" ]
+    }, {
+      "name" : "ThinProvision",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "true" ]
+    }, {
+      "name" : "Result",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "" ]
+    }, {
+      "name" : "Template Reference",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "nodejs1" ]
+    }, {
+      "name" : "Number Of CPU Cores",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "2" ]
+    }, {
+      "name" : "Customization Spec Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "UseVmName_Linux" ]
+    }, {
+      "name" : "Guest OS",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "Ubuntu Linux (64-bit)" ]
+    }, {
+      "name" : "Remote Console Password",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "********" ]
+    }, {
+      "name" : "VM Folder",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "/" ]
+    }, {
+      "name" : "status",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Type of OS Image",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "unix" ]
+    }, {
+      "name" : "Description",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "" ]
+    }, {
+      "name" : "Memory",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "2048" ]
+    }, {
+      "name" : "ServerCount",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "MAC Address",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "00:50:56:b6:46:01" ]
+    } ]
+  }, {
+    "name" : "Resource Binding",
+    "id" : "8a828bfb59ac99a10159c990b6762174",
+    "properties" : [ ]
+  }, {
+    "name" : "vCenter Server Template V2.0",
+    "id" : "8a828bfb59ac99a10159c990b66220f7",
+    "properties" : [ {
+      "name" : "Remote Console Port",
+      "type" : {
+        "key" : "NUMBER",
+        "name" : "Integer",
+        "description" : "Integer",
+        "icon" : null
+      },
+      "value" : [ "5904" ]
+    }, {
+      "name" : "VM Folder",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "/" ]
+    }, {
+      "name" : "Version",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "" ]
+    }, {
+      "name" : "Resource Locations",
+      "type" : {
+        "key" : "LIST",
+        "name" : "List",
+        "description" : "List",
+        "icon" : null
+      },
+      "value" : [ "8a828bfb598428bc015986f4404c4c63" ]
+    }, {
+      "name" : "VM ResourcePool",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Datacenter Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "CLOUD" ]
+    }, {
+      "name" : "Guest OS",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "Ubuntu Linux (64-bit)" ]
+    }, {
+      "name" : "Type of OS Image",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "unix" ]
+    }, {
+      "name" : "Host System",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Power State",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "running" ]
+    }, {
+      "name" : "CI Instance ID",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Memory",
+      "type" : {
+        "key" : "NUMBER",
+        "name" : "Integer",
+        "description" : "Integer",
+        "icon" : null
+      },
+      "value" : [ "2048" ]
+    }, {
+      "name" : "Description",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "" ]
+    }, {
+      "name" : "SNMP System Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Net BIOS Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Guest OS ID",
+      "type" : {
+        "key" : "LIST",
+        "name" : "List",
+        "description" : "List",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Host Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "VMbe2df0" ]
+    }, {
+      "name" : "Disk Size",
+      "type" : {
+        "key" : "NUMBER",
+        "name" : "Integer",
+        "description" : "Integer",
+        "icon" : null
+      },
+      "value" : [ "0" ]
+    }, {
+      "name" : "VM Id",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "vm-13238" ]
+    }, {
+     "name" : "Customization Spec Name",
+      "type" : {
+        "key" : "LIST",
+        "name" : "List",
+        "description" : "List",
+        "icon" : null
+      },
+      "value" : [ "UseVmName_Linux" ]
+    }, {
+      "name" : "Template Reference",
+      "type" : {
+        "key" : "LIST",
+        "name" : "List",
+        "description" : "List",
+        "icon" : null
+      },
+      "value" : [ "nodejs1" ]
+    }, {
+      "name" : "VM Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "Domain Name",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "" ]
+    }, {
+      "name" : "MAC Address",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "00:50:56:b6:46:01" ]
+    }, {
+     "name" : "VM Name Prefix",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "VMbe2df0" ]
+    }, {
+      "name" : "Remote Console Password",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "********" ]
+    }, {
+      "name" : "Number of CPU Cores",
+      "type" : {
+        "key" : "NUMBER",
+        "name" : "Integer",
+        "description" : "Integer",
+        "icon" : null
+      },
+      "value" : [ "2" ]
+    }, {
+      "name" : "Snapshot Detail",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ ]
+    }, {
+      "name" : "IP Address",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "10.2.11.41" ]
+    }, {
+      "name" : "Thin Provision",
+      "type" : {
+        "key" : "BOOLEAN",
+        "name" : "Boolean",
+        "description" : "Boolean",
+        "icon" : null
+      },
+      "value" : [ "true" ]
+    }, {
+      "name" : "Network Name",
+      "type" : {
+        "key" : "LIST",
+        "name" : "List",
+        "description" : "List",
+        "icon" : null
+      },
+      "value" : [ ]
+    } ]
+  }, {
+    "name" : "VCenter",
+    "id" : "8a828bfb598428bc015986f4404c4c63",
+    "properties" : [ {
+      "name" : "DATACENTERNAME",
+      "type" : {
+        "key" : "STRING",
+        "name" : "String",
+        "description" : "String",
+        "icon" : null
+      },
+      "value" : [ "CLOUD" ]
+    }, {
+      "name" : "_username",
+      "type" : {
+        "key" : "STRING",
+        "name" : "STRING",
+        "description" : null,
+        "icon" : null
+      },
+      "value" : [ "CSACLOUD\\suparna" ]
+    }, {
+      "name" : "_url",
+      "type" : {
+        "key" : "STRING",
+        "name" : "STRING",
+        "description" : null,
+        "icon" : null
+      },
+      "value" : [ "https://10.2.2.14:443" ]
+    } ]
+  } ]
+}
