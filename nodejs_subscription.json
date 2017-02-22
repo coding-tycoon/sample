@@ -1,7 +1,7 @@
 {
                "categoryName": "PLATFORM_SERVICES",
                "subscriptionName": "NodeJs Offering For POC (1.0.0)",
-               "startDate": "2017-02-17T09:44:34.000Z",
+               "startDate": "2017-02-22T09:44:34.000Z",
                "subscriptionDescription": "Sample offering to deploy NodeJS Application",
                "lifecycleStages": {
                               "DEVELOPMENT": {
